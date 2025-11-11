@@ -10,8 +10,8 @@ program
 
 
 program
-  .option('-i, --input <path>', 'шлях до файлу для читання')      // обовʼязковий
-  .option('-o, --output [path]', 'шлях до файлу для запису результату') // необовʼязковий, перевіряємо вручну
+  .option('-i, --input <path>', 'шлях до файлу для читання')      
+  .option('-o, --output [path]', 'шлях до файлу для запису результату') 
   .option('-d, --display', 'вивести результат у консоль');
 
 program.parse(process.argv);
