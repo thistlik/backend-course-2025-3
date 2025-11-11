@@ -1,0 +1,21 @@
+{
+  "mtcars": [
+    { "model": "Mazda RX4", "mpg": 21.0, "cyl": 6, "disp": 160, "hp": 110, "wt": 2.620 },
+    { "model": "Mazda RX4 Wag", "mpg": 21.0, "cyl": 6, "disp": 160, "hp": 110, "wt": 2.875 },
+    { "model": "Datsun 710", "mpg": 22.8, "cyl": 4, "disp": 108, "hp": 93, "wt": 2.320 },
+    { "model": "Hornet 4 Drive", "mpg": 21.4, "cyl": 6, "disp": 258, "hp": 110, "wt": 3.215 },
+    { "model": "Hornet Sportabout", "mpg": 18.7, "cyl": 8, "disp": 360, "hp": 175, "wt": 3.440 },
+    { "model": "Valiant", "mpg": 18.1, "cyl": 6, "disp": 225, "hp": 105, "wt": 3.460 },
+    { "model": "Merc 240D", "mpg": 24.4, "cyl": 4, "disp": 146.7, "hp": 62, "wt": 3.190 },
+    { "model": "Merc 230", "mpg": 22.8, "cyl": 4, "disp": 140.8, "hp": 95, "wt": 3.150 },
+    { "model": "Merc 280", "mpg": 19.2, "cyl": 6, "disp": 167.6, "hp": 123, "wt": 3.440 },
+    { "model": "Merc 450SE", "mpg": 16.4, "cyl": 8, "disp": 275.8, "hp": 180, "wt": 4.070 },
+    { "model": "Fiat 128", "mpg": 32.4, "cyl": 4, "disp": 78.7, "hp": 66, "wt": 2.200 },
+    { "model": "Honda Civic", "mpg": 30.4, "cyl": 4, "disp": 75.7, "hp": 52, "wt": 1.615 },
+    { "model": "Toyota Corolla", "mpg": 33.9, "cyl": 4, "disp": 71.1, "hp": 65, "wt": 1.835 },
+    { "model": "Toyota Corona", "mpg": 21.5, "cyl": 4, "disp": 120.1, "hp": 97, "wt": 2.465 },
+    { "model": "Dodge Challenger", "mpg": 15.5, "cyl": 8, "disp": 318, "hp": 150, "wt": 3.520 },
+    { "model": "Camaro Z28", "mpg": 13.3, "cyl": 8, "disp": 350, "hp": 245, "wt": 3.840 },
+    { "model": "Pontiac Firebird", "mpg": 19.2, "cyl": 8, "disp": 400, "hp": 175, "wt": 3.845 }
+  ]
+}
